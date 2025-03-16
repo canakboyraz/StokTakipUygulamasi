@@ -69,7 +69,25 @@ Bu komut hem backend sunucusunu (5000 portunda) hem de frontend geliştirme sunu
 
 ## Görseller
 
-<img src="https://ibb.co/Xky2wh71" alt="alt text" width="320" height="180">
+Bu görselleri README dosyanıza şu şekilde ekleyebilirsiniz:
+markdownCopy# Stok Takip Uygulaması
+
+## Ekran Görüntüleri
+
+### Ana Ekran
+![Ana Ekran](https://i.ibb.co/gFvjn5SN/AnaEkran.jpg)
+
+### Stok Giriş
+![Stok Giriş](https://i.ibb.co/MxNLJwGv/Stok-Giris.jpg)
+
+### Stok Çıkış
+![Stok Çıkış](https://i.ibb.co/sdyFfX87/Stok-C-k-s.jpg)
+
+### Stok Fiyat
+![Stok Fiyat](https://i.ibb.co/ZRwqd4NT/Stok-Fiyat.jpg)
+
+### Stok Görüntüle
+![Stok Görüntüle](https://i.ibb.co/3YM1tb9Q/Stok-Goruntule.jpg)
 
 
 
