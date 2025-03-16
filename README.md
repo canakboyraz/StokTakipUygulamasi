@@ -69,11 +69,7 @@ Bu komut hem backend sunucusunu (5000 portunda) hem de frontend geliştirme sunu
 
 ## Görseller
 
-<a href="https://ibb.co/Xky2wh71"><img src="https://i.ibb.co/yBhf3w6t/AnaEkran.jpg" alt="AnaEkran" border="0"></a>
-<a href="https://ibb.co/Jw5z1SDZ"><img src="https://i.ibb.co/67g4MqjQ/Stok-C-k-s.jpg" alt="Stok-C-k-s" border="0"></a>
-<a href="https://ibb.co/ymMH0vVs"><img src="https://i.ibb.co/fVKjM6Q0/Stok-Fiyat.jpg" alt="Stok-Fiyat" border="0"></a>
-<a href="https://ibb.co/1t2x4ydg"><img src="https://i.ibb.co/ZpTCb4Yj/Stok-Giris.jpg" alt="Stok-Giris" border="0"></a>
-<a href="https://ibb.co/R4B2LKkd"><img src="https://i.ibb.co/Pz9xByv0/Stok-Goruntule.jpg" alt="Stok-Goruntule" border="0"></a>
+[url=https://ibb.co/Xky2wh71][img]https://i.ibb.co/Xky2wh71/AnaEkran.jpg[/img][/url] [url=https://ibb.co/Jw5z1SDZ][img]https://i.ibb.co/Jw5z1SDZ/Stok-C-k-s.jpg[/img][/url] [url=https://ibb.co/ymMH0vVs][img]https://i.ibb.co/ymMH0vVs/Stok-Fiyat.jpg[/img][/url] [url=https://ibb.co/1t2x4ydg][img]https://i.ibb.co/1t2x4ydg/Stok-Giris.jpg[/img][/url] [url=https://ibb.co/R4B2LKkd][img]https://i.ibb.co/R4B2LKkd/Stok-Goruntule.jpg[/img][/url]
 
 
 
