@@ -69,7 +69,7 @@ Bu komut hem backend sunucusunu (5000 portunda) hem de frontend geliştirme sunu
 
 ## Görseller
 
-[url=https://ibb.co/Xky2wh71][img]https://i.ibb.co/Xky2wh71/AnaEkran.jpg[/img][/url] [url=https://ibb.co/Jw5z1SDZ][img]https://i.ibb.co/Jw5z1SDZ/Stok-C-k-s.jpg[/img][/url] [url=https://ibb.co/ymMH0vVs][img]https://i.ibb.co/ymMH0vVs/Stok-Fiyat.jpg[/img][/url] [url=https://ibb.co/1t2x4ydg][img]https://i.ibb.co/1t2x4ydg/Stok-Giris.jpg[/img][/url] [url=https://ibb.co/R4B2LKkd][img]https://i.ibb.co/R4B2LKkd/Stok-Goruntule.jpg[/img][/url]
+<img src="https://ibb.co/Xky2wh71" alt="alt text" width="320" height="180">
 
 
 
