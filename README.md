@@ -67,6 +67,16 @@ Bu komut hem backend sunucusunu (5000 portunda) hem de frontend geliştirme sunu
 4. Stok Görüntüle sayfasında mevcut ürünleri görüntüleyin ve yönetin
 5. Stok Çıkış sayfasında ürün çıkışlarını kaydedin
 
+## Görseller
+
+https://hizliresim.com/3tw7rvr
+
+<a href="https://hizliresim.com/n4d4n7i"><img src="https://i.hizliresim.com/n4d4n7i.jpg" alt="Resim Yükle"></a>
+
+[![Image](https://i.hizliresim.com/n4y8w7s.jpg)](https://hizliresim.com/n4y8w7s)
+
+
+
 ## Lisans
 
 ISC 
