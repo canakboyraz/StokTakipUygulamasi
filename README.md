@@ -69,11 +69,11 @@ Bu komut hem backend sunucusunu (5000 portunda) hem de frontend geliştirme sunu
 
 ## Görseller
 
-https://hizliresim.com/3tw7rvr
-
-<a href="https://hizliresim.com/n4d4n7i"><img src="https://i.hizliresim.com/n4d4n7i.jpg" alt="Resim Yükle"></a>
-
-[![Image](https://i.hizliresim.com/n4y8w7s.jpg)](https://hizliresim.com/n4y8w7s)
+<a href="https://ibb.co/Xky2wh71"><img src="https://i.ibb.co/yBhf3w6t/AnaEkran.jpg" alt="AnaEkran" border="0"></a>
+<a href="https://ibb.co/Jw5z1SDZ"><img src="https://i.ibb.co/67g4MqjQ/Stok-C-k-s.jpg" alt="Stok-C-k-s" border="0"></a>
+<a href="https://ibb.co/ymMH0vVs"><img src="https://i.ibb.co/fVKjM6Q0/Stok-Fiyat.jpg" alt="Stok-Fiyat" border="0"></a>
+<a href="https://ibb.co/1t2x4ydg"><img src="https://i.ibb.co/ZpTCb4Yj/Stok-Giris.jpg" alt="Stok-Giris" border="0"></a>
+<a href="https://ibb.co/R4B2LKkd"><img src="https://i.ibb.co/Pz9xByv0/Stok-Goruntule.jpg" alt="Stok-Goruntule" border="0"></a>
 
 
 
